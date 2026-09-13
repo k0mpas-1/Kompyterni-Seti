@@ -1,4 +1,3 @@
-[Modeli.md](https://github.com/user-attachments/files/32156045/Modeli.md)
 # Примеры уровней модели OSI
 
 ## 1. Физический уровень
